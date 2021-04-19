@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718065493834",
+    "firebase_url": "https://totos-62267.firebaseio.com",
+    "project_id": "totos-62267",
+    "storage_bucket": "totos-62267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718065493834:android:f37554c3ee32e6082803b3",
+        "android_client_info": {
+          "package_name": "rmarua.todos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718065493834-1mr2k4ha6tkor41mcga7uknq4kflueji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rmarua.todos",
+            "certificate_hash": "5bda310b983afde332666724c3eb24ee4f3c956b"
+          }
+        },
+        {
+          "client_id": "718065493834-oa7oc60is6b6sr7bp61pnbgukvkcnums.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuZBGiGaLyY7H9oI0Tl8ySILVbH2P02Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718065493834-oa7oc60is6b6sr7bp61pnbgukvkcnums.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
